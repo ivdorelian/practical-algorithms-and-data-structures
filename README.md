@@ -8,3 +8,7 @@ Stylistic rules will appear here.
 
 ## Resources
  * http://futurism.com/images/what-are-algorithms/
+
+## Algorithms and their use(examples)
+ * Recursion - DI containers
+ * Trees - User hierarchies(https://en.wikipedia.org/wiki/Nested_set_model) 
