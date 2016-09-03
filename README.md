@@ -10,5 +10,9 @@ Stylistic rules will appear here.
  * http://futurism.com/images/what-are-algorithms/
 
 ## Algorithms and their use(examples)
- * Recursion - DI containers
- * Trees - User hierarchies(https://en.wikipedia.org/wiki/Nested_set_model) 
+  * Recursion
+    * DI containers
+  * Trees
+    * User hierarchies(https://en.wikipedia.org/wiki/Nested_set_model)
+  * Graph theory
+    * Google Maps(http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible?utm_source=mbfb)
